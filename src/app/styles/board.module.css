@@ -23,11 +23,10 @@
 .options option {
   padding: 8px 14px;
   margin: 0 10px;
-  font-weight: 700;
   border: 1px solid rgb(95, 95, 95);
   color: rgb(226, 226, 226);
   border-radius: 5px;
-  background-color: rgb(15, 84, 90);
+  background-color: rgb(36, 48, 54);
   box-shadow: 4px 4px 10px rgba(57, 57, 57, 0.274);
   cursor: pointer;
 }
