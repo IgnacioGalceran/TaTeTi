@@ -72,7 +72,6 @@ export function Board() {
 
     if (board[i][j] === "" && !winner) {
       const newBoard = board.map((row: any) => [...row]);
-      const position: any = { i, j };
       const key = `${i},${j}`;
 
       if (turns.playerX) {
